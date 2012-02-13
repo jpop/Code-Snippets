@@ -28,6 +28,8 @@
 	
 	if(empty($errors)) {
 	
+		// for javascript to handle later
+		// send the mail
 		echo "OK";  exit;
 	
 	} else {
